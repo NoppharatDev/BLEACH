@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Prompt';
+    src: url("Prompt.woff2");
+}
+  
+* {
+    font-family: 'Prompt';
+}
+
+body {
+    background-color: #343a40;
+}
+
+.bg-nav {
+    background-color: #24272b;
+}
+.btn-bleach {
+    border-radius: 18px;
+    background-color: #ff6600;
+}
+
+.pg-40 {
+    text-indent: 40px;
+}
+
+.card-bleach {
+
+}
+  
+.sticky-footer {
+    flex-shrink: none;
+    background-color: #191a1b;
+}
